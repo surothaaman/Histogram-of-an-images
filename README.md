@@ -49,8 +49,9 @@ cv2.destroyAllWindows()
   
 #### Output:
 ### Input Grayscale Image and Color Image
-![diptgray1](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8d172f61-7d6a-4648-8d96-a5b8249b448b)
-![color](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8a8f6b9e-fe03-460f-a422-5eba1c3f10c9)
+![diptgray1]![Screenshot 2024-03-21 235719](https://github.com/surothaaman/Histogram-of-an-images/assets/133313653/60683529-d8e4-4e55-a72e-1ef657f4ba97)s
+![color]![Screenshot 2024-03-21 235743](https://github.com/surothaaman/Histogram-of-an-images/assets/133313653/0fd5ee4c-a2fa-4f54-80a2-4539f2ea62fc)
+
 </td>
 </tr>
 
