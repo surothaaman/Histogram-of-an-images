@@ -10,7 +10,7 @@ Anaconda - Python 3.7
 Read the gray and color image using imread()
 
 ### Step2:
-Print the image using imshow().
+Print the image using imshow().z
 
 
 
@@ -44,23 +44,7 @@ cv2.imshow("Colour Image",color_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-</td>
-<td>
-  
-#### Output:
-### Input Grayscale Image and Color Image
-![diptgray1]!
-[Screenshot 2024-03-21 235719](https://github.com/surothaaman/Histogram-of-an-images/assets/133313653/60683529-d8e4-4e55-a72e-1ef657f4ba97)s
-![color]!
-[Screenshot 2024-03-21 235743](https://github.com/surothaaman/Histogram-of-an-images/assets/133313653/0fd5ee4c-a2fa-4f54-80a2-4539f2ea62fc)
 
-</td>
-</tr>
-
-
-
-<tr>
-  <td width=50%>
 
 ### Histogram of Grayscale image and any color image
 ```python
@@ -92,18 +76,8 @@ cv2.waitKey(0)
 <td>
 
 ### Output:
-#### Histogram of Grayscale image and any color image
-### Grayscale image
-![dipt3](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/1aa62857-f5cd-4431-bbc0-2885e400b9df)
-### Color image
-![dipt4](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8b10a4c9-0eef-4c8b-9567-59202db9a672)
-</td>
-</tr>
 
 
-
-<tr>
-  <td width=50%>
 
 ### Histogram Equalization of Grayscale Image.
 ```python
@@ -119,12 +93,21 @@ cv2.destroyAllWindows()
 <td>
   
 ### Output:
+### Input Grayscale Image and Color Image
+
+[Screenshot 2024-03-21 235719](https://github.com/surothaaman/Histogram-of-an-images/assets/133313653/60683529-d8e4-4e55-a72e-1ef657f4ba97)s
+[Screenshot 2024-03-21 235743](https://github.com/surothaaman/Histogram-of-an-images/assets/133313653/0fd5ee4c-a2fa-4f54-80a2-4539f2ea62fc)
+
+#### Histogram of Grayscale image and any color image
+### Grayscale image
+![dipt3](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/1aa62857-f5cd-4431-bbc0-2885e400b9df)
+### Color image
+![dipt4](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/8b10a4c9-0eef-4c8b-9567-59202db9a672)
+
 ### Histogram Equalization of Grayscale Image.
 ![grayscaleimagedipt5](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/61fba175-9053-47f5-918e-26673ef2906b)
 ![equalized imagedipt6](https://github.com/deepikasrinivasans/Histogram-of-an-images/assets/119393935/4251001b-3be2-4a5d-8579-72af6c275f3a)
-</td>
-</tr>
-</table>
+
 
 ### Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
